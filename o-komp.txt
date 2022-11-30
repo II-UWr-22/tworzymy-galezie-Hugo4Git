@@ -1,1 +1,48 @@
 Linux DESKTOP-88M7N7J 4.19.128-microsoft-standard #1 SMP Tue Jun 23 12:58:10 UTC 2020 x86_64 x86_64 x86_64 GNU/Linux
+MemTotal:       12881260 kB
+MemFree:        12689056 kB
+MemAvailable:   12594120 kB
+Buffers:           14500 kB
+Cached:            82204 kB
+SwapCached:            0 kB
+Active:            77036 kB
+Inactive:          23356 kB
+Active(anon):       3744 kB
+Inactive(anon):        8 kB
+Active(file):      73292 kB
+Inactive(file):    23348 kB
+Unevictable:           0 kB
+Mlocked:               0 kB
+SwapTotal:       4194304 kB
+SwapFree:        4194304 kB
+Dirty:                 0 kB
+Writeback:             0 kB
+AnonPages:          3648 kB
+Mapped:             4372 kB
+Shmem:                72 kB
+Slab:              30544 kB
+SReclaimable:      15348 kB
+SUnreclaim:        15196 kB
+KernelStack:        1856 kB
+PageTables:          148 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:    10634932 kB
+Committed_AS:      16152 kB
+VmallocTotal:   34359738367 kB
+VmallocUsed:           0 kB
+VmallocChunk:          0 kB
+Percpu:             1888 kB
+AnonHugePages:      2048 kB
+ShmemHugePages:        0 kB
+ShmemPmdMapped:        0 kB
+HugePages_Total:       0
+HugePages_Free:        0
+HugePages_Rsvd:        0
+HugePages_Surp:        0
+Hugepagesize:       2048 kB
+Hugetlb:               0 kB
+DirectMap4k:       44032 kB
+DirectMap2M:     3725312 kB
+DirectMap1G:     9437184 kB
