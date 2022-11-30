@@ -1,2 +1,4 @@
 Hubert
 git
+wyborcza
+turkus
